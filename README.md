@@ -3,33 +3,23 @@ Spiel_Name:
 
 
 Platform:
-      PC  ? 1
-      App ? 2
-
-
+      1. PC  ? PRIO
+      2. App ?
+     
 Ideen:
-
-Tower Defense
-AFK Arena
-
-
-
+      Tower Defense
+      AFK Arena
+      Sidescroller
+      RPG elemente?
+      Multiplay!
 Raw:
-
-
 
 Konzept:
 
-
-
+Marcs_Eastereggs:
 
 Mind_Dump:
 
-
-
-
-
-
-
-
+Inspirationen:
+      FatDino Youtube
 Wir bauen ein spiel
