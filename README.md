@@ -18,6 +18,8 @@ Konzept:
 
 Marcs_Eastereggs:
 
+Gwen, Ahri, 2B
+
 Mind_Dump:
 
 Inspirationen:
